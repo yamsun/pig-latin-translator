@@ -1,16 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
 body{
     background-color:rgb(236, 217, 236);
     margin-left: 4%;
+    font-family: 'Kalam',cursive;
 }
+
 
 footer{
     margin-top: 1rem;
     background-color: rgb(223, 160, 223);
  }
 
+ /* #made-with{
+     
+ } */
+
 
 #output{
+    color:rgb(192, 25, 192);
+    font-size: large;
     background-color: #ffffff;
     opacity: 0.8;
     height: 10rem;
@@ -29,6 +38,9 @@ footer{
 
 }
 textarea{
+    color:teal;
+    font-size: large;
+    font-family: 'Kalam',cursive;;
     opacity: 0.8;
     height: 10rem;
     width: 50%;
